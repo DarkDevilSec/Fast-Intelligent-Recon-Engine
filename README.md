@@ -3,23 +3,13 @@
 ```
 🧠 FIRE stands for Fast Intelligent Recon Engine – a modular, OSINT-powered reconnaissance tool built for Red Teamers , Bug Bounty Hunters , and Security Analysts.
 ```
-
-
 ```
-
-
 ███████╗██╗██████╗ ███████╗    ██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
 ██╔════╝██║██╔══██╗██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗████╗  ██║
 █████╗  ██║██████╔╝█████╗      ██████╔╝█████╗  ██║     ██║   ██║██╔██╗ ██║
 ██╔══╝  ██║██╔══██╗██╔══╝      ██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║
 ██║     ██║██║  ██║███████╗    ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
-
-
-
-
-
-
 ```
 
 🧪 Version: 1.0
@@ -29,7 +19,7 @@
 
 ---
 
-## ✨ Features
+✨ Features
 
 🔍 Basic Recon:
 • 🌐 Site Title Fetch
@@ -48,7 +38,7 @@
 
 ---
 
-## ⚙️ Installation
+⚙️ Installation
 
 🔧 Install Tools (Kali):
 
@@ -71,7 +61,7 @@ chmod +x setup.py
 
 ---
 
-## 🚀 Usage
+🚀 Usage
 
 Start FIRE:
 
@@ -99,20 +89,19 @@ Select Option:
  [0] Exit
 ```
 
-
-## 🖼️ Screenshot
+ 🖼️ Screenshot
 
 ![FIRE Recon Screenshot](https://raw.githubusercontent.com/WhiteDevil/FIRE-Recon/main/screenshot.png)
 
 ---
 
-## 👑 Author
+👑 Author
 
 🧑 White Devil
 🔗 LinkedIn: [https://www.linkedin.com/in/white-devil](https://www.linkedin.com/in/white-devil)
 ---
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 🔒 This tool is intended for **authorized testing** and **educational use only**.
 Do not use against systems without **explicit permission**.
