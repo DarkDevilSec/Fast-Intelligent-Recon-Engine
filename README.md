@@ -1,60 +1,59 @@
-# Fast-Intelligent-Recon-Engine
-Absolutely, White Devil 🔥
-Here is the cleaned-up `README.md` without any `**bold markdown**` — plain and professional:
-
----
-
-```markdown
 # 🔥 FIRE Recon - Fast Intelligent Reconnaissance Engine
 
 ```
 
+🧠 **FIRE** stands for **Fast Intelligent Recon Engine** – a modular, OSINT-powered reconnaissance tool built for **Red Teamers**, **Bug Bounty Hunters**, and **Security Analysts**.
+
+```
 ███████╗██╗██████╗ ███████╗    ██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
 ██╔════╝██║██╔══██╗██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗████╗  ██║
 █████╗  ██║██████╔╝█████╗      ██████╔╝█████╗  ██║     ██║   ██║██╔██╗ ██║
 ██╔══╝  ██║██╔══██╗██╔══╝      ██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║
 ██║     ██║██║  ██║███████╗    ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-````
-
-Version: 1.0  
-Author: White Devil  
-Framework for Red Teamers & OSINT Analysts  
-Kali Linux 2025.2 Ready
+🧪 Version: 1.0
+🧑‍💻 Author: White Devil
+🧭 OS: Kali Linux 2025.2
+🎯 Focus: Web Recon, OSINT, Red Team
 
 ---
 
 ## ✨ Features
 
-- Site Title & IP Resolver
-- Web Server & Banner Detection
-- Cloudflare Protection Detection
-- Geo-IP & Whois Lookup
-- robots.txt Scanner
-- Subdomain Enumeration (Subfinder + Amass)
-- Nmap Port Scanner
-- CVE Fingerprinting (based on open services)
+🔍 Basic Recon:
+• 🌐 Site Title Fetch
+• 📌 IP Address Resolution
+• 🧭 GeoIP Lookup
+• 🏷️ Web Server Detection
+• 🤖 robots.txt Scanner
+
+🛡️ Security Intel:
+• ☁️ Cloudflare Detection
+• 🧾 WHOIS Info
+• 🛰️ Banner Grabbing
+• 🌐 Subdomain Enumeration (Amass + Subfinder)
+• 🚀 Nmap Scan (Top Ports + Services)
+• 🧨 CVE Finder (based on open ports)
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-### 1. System Tools (Kali Linux)
+🔧 Install Tools (Kali):
 
 ```bash
 sudo apt install nmap amass subfinder whois curl -y
-````
+```
 
-### 2. Python Libraries
+🐍 Install Python Dependencies:
 
 ```bash
 pip3 install --break-system-packages -r requirements.txt
 ```
 
----
-
-## Setup (Auto Installer)
+🧠 Auto Setup:
 
 ```bash
 chmod +x setup.py
@@ -63,16 +62,18 @@ chmod +x setup.py
 
 ---
 
-## Usage
+## 🚀 Usage
+
+Start FIRE:
 
 ```bash
 python3 fire.py
 ```
 
-Example Menu:
+📋 Sample Menu:
 
 ```
-[+] Site Title: Example Domain
+[+] Site Title: example.com
 
 Select Option:
  [1] IP Address
@@ -91,16 +92,61 @@ Select Option:
 
 ---
 
-## Screenshot
+## 📂 Project Structure
+
+```
+FIRE-Recon/
+├── fire.py
+├── setup.py
+├── requirements.txt
+├── modules/
+│   ├── ip_resolver.py
+│   ├── web_server.py
+│   ├── cloudflare_check.py
+│   ├── whois_lookup.py
+│   ├── geoip_lookup.py
+│   ├── robots_scanner.py
+│   ├── banner_grabber.py
+│   ├── subdomain_scanner.py
+│   ├── nmap_scan.py
+│   └── cve_finder.py
+```
+
+---
+
+## 🖼️ Screenshot
 
 ![FIRE Recon Screenshot](https://raw.githubusercontent.com/WhiteDevil/FIRE-Recon/main/screenshot.png)
 
 ---
 
-## Author
+## 👑 Author
 
-White Devil
-LinkedIn: [https://www.linkedin.com/in/white-devil](https://www.linkedin.com/in/white-devil)
-GitHub: [https://github.com/WhiteDevil/FIRE-Recon](https://github.com/WhiteDevil/FIRE-Recon)
+🧑 White Devil
+🔗 LinkedIn: [https://www.linkedin.com/in/white-devil](https://www.linkedin.com/in/white-devil)
+🐱 GitHub: [https://github.com/WhiteDevil/FIRE-Recon](https://github.com/WhiteDevil/FIRE-Recon)
 
+---
 
+## ⚠️ Disclaimer
+
+🔒 This tool is intended for **authorized testing** and **educational use only**.
+Do not use against systems without **explicit permission**.
+The creator is not responsible for any misuse or damage caused.
+
+---
+
+🔥 Stay Ethical. Hack Smart. Recon Fast.
+
+```
+
+Would you like this `README.md` pushed directly into your repo or zipped for download?
+
+I can also:
+
+- Add dark/light ASCII themes  
+- Generate badges (stars, forks, Python version)  
+- Setup a GitHub Pages landing page  
+
+Ready for next command, White Devil 👊
+```
