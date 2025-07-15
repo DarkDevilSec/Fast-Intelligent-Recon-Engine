@@ -11,13 +11,12 @@
 ██║     ██║██║  ██║███████╗    ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
-
+```
 🧪 Version: 1.0
 🧑‍💻 Author: White Devil
 🧭 OS: Kali Linux 2025.2
 🎯 Focus: Web Recon, OSINT, Red Team
 
----
 
 ✨ Features
 
@@ -27,8 +26,8 @@
 • 🧭 GeoIP Lookup
 • 🏷️ Web Server Detection
 • 🤖 robots.txt Scanner
----
----
+
+
 🛡️ Security Intel:
 • ☁️ Cloudflare Detection
 • 🧾 WHOIS Info
@@ -37,7 +36,7 @@
 • 🚀 Nmap Scan (Top Ports + Services)
 • 🧨 CVE Finder (based on open ports)
 
----
+```
 
 ⚙️ Installation
 
