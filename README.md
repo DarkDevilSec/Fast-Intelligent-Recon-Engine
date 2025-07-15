@@ -55,6 +55,8 @@ pip3 install --break-system-packages -r requirements.txt
 🧠 Auto Setup:
 
 ```bash
+git clone https://github.com/ashish143-hacker/Fast-Intelligent-Recon-Engine.git
+cd Fast-Intelligent-Recon-Engine
 chmod +x setup.py
 ./setup.py
 ```
