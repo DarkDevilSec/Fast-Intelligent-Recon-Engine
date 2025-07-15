@@ -27,7 +27,8 @@
 • 🧭 GeoIP Lookup
 • 🏷️ Web Server Detection
 • 🤖 robots.txt Scanner
-
+---
+---
 🛡️ Security Intel:
 • ☁️ Cloudflare Detection
 • 🧾 WHOIS Info
