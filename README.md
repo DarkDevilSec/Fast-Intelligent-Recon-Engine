@@ -98,7 +98,7 @@ Select Option:
 👑 Author
 
 🧑 White Devil
-🔗 LinkedIn: [https://www.linkedin.com/in/white-devil](https://www.linkedin.com/in/white-devil)
+🔗 LinkedIn: [https://www.linkedin.com/in/ashish-prajapati-282287303/ ]
 ---
 
 ⚠️ Disclaimer
