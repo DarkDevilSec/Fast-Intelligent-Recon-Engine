@@ -91,7 +91,7 @@ Select Option:
 
  🖼️ Screenshot
 
-![FIRE Recon Screenshot](https://raw.githubusercontent.com/WhiteDevil/FIRE-Recon/main/screenshot.png)
+![FIRE Recon Screenshot](https://github.com/ashish143-hacker/Fast-Intelligent-Recon-Engine/blob/main/FIRE%20RECON.png)
 
 ---
 
