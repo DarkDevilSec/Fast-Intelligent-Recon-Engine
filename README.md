@@ -1,18 +1,11 @@
 # 🔥 FIRE Recon - Fast Intelligent Reconnaissance Engine
 
 ```
-
-🧠 **FIRE** stands for **Fast Intelligent Recon Engine** – a modular, OSINT-powered reconnaissance tool built for Red Teamers , Bug Bounty Hunters , and Security Analysts.
-
-
-
-
-
-
+🧠 FIRE stands for Fast Intelligent Recon Engine – a modular, OSINT-powered reconnaissance tool built for Red Teamers , Bug Bounty Hunters , and Security Analysts.
 ```
 
 
-
+```
 
 
 ███████╗██╗██████╗ ███████╗    ██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
