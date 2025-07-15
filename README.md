@@ -2,7 +2,7 @@
 
 ```
 
-🧠 **FIRE** stands for **Fast Intelligent Recon Engine** – a modular, OSINT-powered reconnaissance tool built for **Red Teamers**, **Bug Bounty Hunters**, and **Security Analysts**.
+🧠 **FIRE** stands for **Fast Intelligent Recon Engine** – a modular, OSINT-powered reconnaissance tool built for Red Teamers , Bug Bounty Hunters , and Security Analysts.
 
 ```
 ███████╗██╗██████╗ ███████╗    ██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
@@ -90,29 +90,6 @@ Select Option:
  [0] Exit
 ```
 
----
-
-## 📂 Project Structure
-
-```
-FIRE-Recon/
-├── fire.py
-├── setup.py
-├── requirements.txt
-├── modules/
-│   ├── ip_resolver.py
-│   ├── web_server.py
-│   ├── cloudflare_check.py
-│   ├── whois_lookup.py
-│   ├── geoip_lookup.py
-│   ├── robots_scanner.py
-│   ├── banner_grabber.py
-│   ├── subdomain_scanner.py
-│   ├── nmap_scan.py
-│   └── cve_finder.py
-```
-
----
 
 ## 🖼️ Screenshot
 
@@ -124,8 +101,6 @@ FIRE-Recon/
 
 🧑 White Devil
 🔗 LinkedIn: [https://www.linkedin.com/in/white-devil](https://www.linkedin.com/in/white-devil)
-🐱 GitHub: [https://github.com/WhiteDevil/FIRE-Recon](https://github.com/WhiteDevil/FIRE-Recon)
-
 ---
 
 ## ⚠️ Disclaimer
@@ -134,19 +109,3 @@ FIRE-Recon/
 Do not use against systems without **explicit permission**.
 The creator is not responsible for any misuse or damage caused.
 
----
-
-🔥 Stay Ethical. Hack Smart. Recon Fast.
-
-```
-
-Would you like this `README.md` pushed directly into your repo or zipped for download?
-
-I can also:
-
-- Add dark/light ASCII themes  
-- Generate badges (stars, forks, Python version)  
-- Setup a GitHub Pages landing page  
-
-Ready for next command, White Devil 👊
-```
