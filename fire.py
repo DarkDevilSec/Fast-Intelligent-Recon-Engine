@@ -15,9 +15,9 @@ def banner():
     print("╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝")
     print("\033[1;93m")  # Yellow bold for info
     print("🔥  FIRE Recon - Fast Intelligent Reconnaissance Engine")
-    print("📦  Version : 1.0   |   ⚔️  Kali Linux 2025.2 Compatible")
+    print("📦  Version : 1.0   |   ⚔️  Linux Compatible")
     print("👑  Author  : Ashish Prajapati")
-    print("🌐  GitHub  : https://github.com/ashish143-hacker/Fast-Intelligent-Recon-Engine.git")
+    print("🌐  GitHub  : https://github.com/DarkDevilSec/Fast-Intelligent-Recon-Engine")
     print("🧠  Web Recon Framework for Red Teamers & OSINT Experts")
     print("\033[0m")  # Reset color
 
