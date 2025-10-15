@@ -99,7 +99,7 @@ Select Option:
 
 👑 Author
 
-🧑 White Devil
+🧑 Ashish Prajapati
 🔗 LinkedIn: [https://www.linkedin.com/in/ashish-prajapati-282287303/ ]
 ---
 
