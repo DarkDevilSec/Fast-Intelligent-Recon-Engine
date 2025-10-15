@@ -100,7 +100,7 @@ Select Option:
 👑 Author
 
 🧑 Ashish Prajapati
-🔗 LinkedIn: [https://www.linkedin.com/in/ashish-prajapati-282287303/ ]
+🔗 LinkedIn: [https://www.linkedin.com/in/ashish-prajapati-282287303/]
 ---
 
 ⚠️ Disclaimer
